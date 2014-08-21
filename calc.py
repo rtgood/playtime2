@@ -1,4 +1,5 @@
-k"""calc.py: A simple Python calculator."""
+"""calc.py: A simple Python calculator.
+now with max"""
 import sys
 
 def add_all(nums):
