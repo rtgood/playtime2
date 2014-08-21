@@ -4,7 +4,7 @@ def add_all(nums):
 	return sum(nums)
 def multiply_all(nums):
     return reduce(lambda a, b: a * b, nums)
-
+#werty
 if __name__ == '__main__':
     command = sys.argv[1]
     nums = map(float, sys.argv[2:])
